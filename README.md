@@ -3,3 +3,6 @@ This repository contains code written by me during my first day of code.
 
 # 1st day
 Today I solved write a code on quick sort and solved a question from codechef(Problem Code: KTTABLE)
+
+# 2nd day
+Today I learned linked list mainly singly linked list and solved a question from codechef(Problem Code: HS08TEST)
