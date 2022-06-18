@@ -6,3 +6,6 @@ Today I solved write a code on quick sort and solved a question from codechef(Pr
 
 # 2nd day
 Today I learned linked list mainly singly linked list and solved a question from codechef(Problem Code: HS08TEST)
+
+# 3rd day
+Today I learned circular linked list and solved a question from codechef(Problem Code: TLG)
