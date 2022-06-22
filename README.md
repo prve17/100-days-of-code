@@ -9,3 +9,6 @@ Today I learned linked list mainly singly linked list and solved a question from
 
 # 3rd day
 Today I learned circular linked list and solved a question from codechef(Problem Code: TLG)
+
+# 4th day
+Today I learned the difference between size() and sizeof() and use to solve a question from HackerRank(Problem: Between Two Sets)
